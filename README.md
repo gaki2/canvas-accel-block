@@ -5,4 +5,4 @@
 Drag mouse to left or right then box will rotate along your mouse.
 
 ### Link
-https://gaki2.github.io/canvas-rotate-board/
+https://gaki2.github.io/canvas-accel-block/
